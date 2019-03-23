@@ -4,7 +4,7 @@ using UnityEngine;
 
 public class Coin : MonoBehaviour
 {
-    public int points;
+    public int pointsCoin;
     public ParticleSystem coinParticle;
 
     private void OnTriggerEnter(Collider other)
