@@ -68,11 +68,11 @@ public class GameManager : MonoBehaviour
         isEnding = true;
         if (!condition)
         {
-            endGame.text = "Game Over";
+            endGame.text = "Game Over \n press any key";
         }
         else
         {
-            endGame.text = "U R wienner";
+            endGame.text = "U R wienner \n press any key";
         }
         
     }

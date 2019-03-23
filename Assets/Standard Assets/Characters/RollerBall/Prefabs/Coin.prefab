@@ -108,4 +108,4 @@ MonoBehaviour:
   coinParticle: {fileID: 5279815689682715633, guid: 1f8af4ebf8fcb4cf6bff4841c50aa68c,
     type: 3}
   gameManager: {fileID: 0}
-  timeCoin: 1
+  timeCoin: 2
